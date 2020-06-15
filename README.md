@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and was super easy.
+
+All you need to do to have a super easy crd (no update yet) ting with firestore, is add a Firestore.js file with your firebase info
 
 ## Available Scripts
 
