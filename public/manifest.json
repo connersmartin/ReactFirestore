@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Testing React with Firestore",
+  "name": "Playing around with React",
   "icons": [
     {
       "src": "favicon.ico",
